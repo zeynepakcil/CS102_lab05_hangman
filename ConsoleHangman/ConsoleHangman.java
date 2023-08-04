@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Hangman.IHangmanSetup;
+
 /**
  * ConsoleHangman
  *
