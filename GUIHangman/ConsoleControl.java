@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Hangman.Hangman;
+
 // ConsoleControl
 // David, 7/4/2013
 

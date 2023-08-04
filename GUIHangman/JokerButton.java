@@ -1,5 +1,7 @@
 import javax.swing.JButton;
 
+import Hangman.Hangman;
+
 public class JokerButton extends JButton implements IHangmanView{
     private Hangman hangman;
     private LetterButtonControls letterButtonControls;

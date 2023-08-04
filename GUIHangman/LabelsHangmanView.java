@@ -6,6 +6,8 @@ import java.awt.GridLayout;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+import Hangman.Hangman;
+
 public class LabelsHangmanView extends JPanel implements IHangmanView{
     private Hangman hangman;
     private JLabel numOfIncorrectTries;

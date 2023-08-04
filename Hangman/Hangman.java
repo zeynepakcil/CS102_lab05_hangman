@@ -5,7 +5,7 @@ package Hangman;
 public class Hangman {
    char blankChar;
    String charsToPreserve;
-   StringBuffer secretWord;
+   public StringBuffer secretWord;
    StringBuffer allLetters;
    StringBuffer usedLetters;
    int numberOfIncorrectTries;

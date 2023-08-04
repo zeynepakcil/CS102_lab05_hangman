@@ -8,6 +8,8 @@ import java.awt.geom.Line2D;
 
 import javax.swing.JPanel;
 
+import Hangman.Hangman;
+
 public class GallowsHangmanView extends JPanel implements IHangmanView{
     
     Hangman hangman;

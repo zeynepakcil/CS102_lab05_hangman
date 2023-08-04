@@ -1,3 +1,5 @@
+import Hangman.Hangman;
+
 /**
  * IHangmanView - view interface for MVC demo using Hangman
  *

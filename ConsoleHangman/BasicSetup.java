@@ -1,6 +1,8 @@
 // BasicSetup
 // David, 2013/4/7
 
+import Hangman.IHangmanSetup;
+
 public class BasicSetup implements IHangmanSetup
 {
 	private static String[] words = { "Broken", "Magical", "I",

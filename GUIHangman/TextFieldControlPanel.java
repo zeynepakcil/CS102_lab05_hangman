@@ -1,6 +1,8 @@
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+import Hangman.Hangman;
+
 public class TextFieldControlPanel extends JPanel{
     private Hangman hangman;
     private JTextField textField;

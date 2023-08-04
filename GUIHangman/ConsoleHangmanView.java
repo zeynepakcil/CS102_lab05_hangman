@@ -2,6 +2,8 @@ import javax.swing.JPanel;
 // ConsoleHangmanView
 // David, 6/4/2013
 
+import Hangman.Hangman;
+
 public class ConsoleHangmanView extends JPanel implements IHangmanView
 {
 	@Override

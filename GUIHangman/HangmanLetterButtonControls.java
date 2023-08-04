@@ -3,6 +3,8 @@ import java.awt.Font;
 
 import javax.swing.JButton;
 
+import Hangman.Hangman;
+
 public class HangmanLetterButtonControls extends LetterButtonControls implements IHangmanView{
 
     public HangmanLetterButtonControls(String hangmanLetters, int row, int col){

@@ -6,6 +6,8 @@ import javax.swing.JButton;
 import javax.swing.JComponent;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
+
+import Hangman.IHangmanSetup;
 /**
  * GUIHangman - GUI based MVC test for cs102 Hangman & IHangmanSetup
  *

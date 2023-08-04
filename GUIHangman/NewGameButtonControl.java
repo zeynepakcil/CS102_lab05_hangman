@@ -3,6 +3,8 @@ import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
 
+import Hangman.Hangman;
+
 public class NewGameButtonControl extends JButton implements IHangmanView{
     private Hangman hangman;
 
